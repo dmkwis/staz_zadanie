@@ -1,0 +1,6 @@
+/home/dominik/RiderProjects/Intern_TicTacToe/Intern_TicTacToe/bin/Debug/Intern_TicTacToe.exe
+/home/dominik/RiderProjects/Intern_TicTacToe/Intern_TicTacToe/bin/Debug/Intern_TicTacToe.pdb
+/home/dominik/RiderProjects/Intern_TicTacToe/Intern_TicTacToe/obj/Debug/Intern_TicTacToe.csprojAssemblyReference.cache
+/home/dominik/RiderProjects/Intern_TicTacToe/Intern_TicTacToe/obj/Debug/Intern_TicTacToe.csproj.CoreCompileInputs.cache
+/home/dominik/RiderProjects/Intern_TicTacToe/Intern_TicTacToe/obj/Debug/Intern_TicTacToe.exe
+/home/dominik/RiderProjects/Intern_TicTacToe/Intern_TicTacToe/obj/Debug/Intern_TicTacToe.pdb
